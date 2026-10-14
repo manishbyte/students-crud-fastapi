@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Students Database CRUD Application
 
 Python backend internship project using **FastAPI** and **SQLite**. The optional Ollama/AI extension is intentionally excluded.
@@ -160,3 +161,6 @@ students_crud_fastapi/
 ```
 
 
+=======
+# students-crud-fastapi
+>>>>>>> 9e2905a83f921417d402e7f9bfc29b346874fd71
